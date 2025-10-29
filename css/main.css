@@ -47,6 +47,7 @@ article {
     background-color:antiquewhite;
     padding: 10px;
     margin: 10px;
+    width:auto;
 }
 
 .special{
@@ -57,13 +58,6 @@ article {
     padding: 5px;
     float:left;
 
-}
-
-article {
-    background-color: #000000;
-    padding: 10px;
-    margin: 10px;
-    width:auto;
 }
 
 h1{ 
